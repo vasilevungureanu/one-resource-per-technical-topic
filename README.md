@@ -14,23 +14,11 @@ Also, I consider that is very important to start with the right resource when we
 
 ## Contents
 
-### Enough to be dangerous
+* [Computer Science](#computer-science)
 
-* []()
-* []()
+### Computer Science
 
-### To master, continue with
-
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+[Computer Science](https://www.youtube.com/channel/UCSX3MR0gnKDxyXAyljWzm0Q)
 
 ## Usage
 
