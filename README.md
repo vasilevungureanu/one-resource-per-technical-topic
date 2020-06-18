@@ -63,7 +63,7 @@ Also, I consider that is very important to start with the right resource when we
 
 ### Command Line
 
-[The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line?ac=1&from_search=true&qid=frX8uH37dA&rank=1)
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Usage
 
