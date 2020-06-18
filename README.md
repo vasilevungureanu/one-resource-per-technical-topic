@@ -1,10 +1,16 @@
-# List of Resources Template
+# One Resource per Technical Topic
 
 <a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A template for creating new repositories in the form of a list of resources
+> One resource per technical topic
 
-There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
+There are hundreds and thousands of resources on the internet for each of these technical topics, but only a few of them have a high concentration of valuable content.
+<br />
+Even more, by analyzing these few resources that have a high concentration of valuable content, we can identify only one resource that contains the most valuable content.
+<br />
+Here we are applying the Pareto principle, 80% of the result comes from 20% of the effort. In other words, we consume less amount of information and as a result, we gain the desired new knowledge.
+<br />
+Also, I consider that is very important to start with the right resource when we begin to learn something new.
 
 ## Contents
 
@@ -28,7 +34,6 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Usage
 
-1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
 1. After local cloning run `./bootstrap.sh`.
 
 License
