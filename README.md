@@ -25,6 +25,7 @@ Also, I consider that is very important to start with the right resource when we
 * [Product over Project](#product-over-project)
 * [Command Line](#command-line)
 * [Technical Blogging](#technical-blogging)
+* [Functional Programming](#functional-programming)
 
 ### Computer Science
 
@@ -69,6 +70,10 @@ Also, I consider that is very important to start with the right resource when we
 ### Technical Blogging
 
 [Technical Blogging: Amplify Your Influence](https://www.goodreads.com/book/show/45856607-technical-blogging?from_search=true&from_srp=true&qid=Hv4M3vUWtL&rank=2)
+
+### Functional Programming
+
+[The Functional Style](https://codurance.com/2018/08/09/the-functional-style-part-1/)
 
 ## Usage
 
