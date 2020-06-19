@@ -26,6 +26,12 @@ Also, I consider that is very important to start with the right resource when we
 * [Command Line](#command-line)
 * [Technical Blogging](#technical-blogging)
 * [Functional Programming](#functional-programming)
+* [Git](#git)
+* [Domain-Driven Design](#domain-driven-design)
+* [Event Storming](#event-storming)
+* [Test && Commit || Revert](test-commit-revert)
+* [Naming](#naming)
+* [Software Design](#software-design)
 
 ### Computer Science
 
@@ -74,6 +80,30 @@ Also, I consider that is very important to start with the right resource when we
 ### Functional Programming
 
 [The Functional Style](https://codurance.com/2018/08/09/the-functional-style-part-1/)
+
+### Git
+
+[Git Book](https://git-scm.com/book/en/v2)
+
+### Domain-Driven Design
+
+[Domain-Driven Design Crew](https://github.com/ddd-crew)
+
+### Event Storming
+
+[Introducing Event Storming](https://leanpub.com/introducing_eventstorming)
+
+### Test && Commit || Revert
+
+[What Is TCR?](https://software-sunshine-blog.de/eng-tcr-vs-tdd)
+
+### Naming
+
+[Naming as a Process](https://www.digdeeproots.com/articles/on/naming-as-a-process/)
+
+### Software Design
+
+[Agile Technical Practices Distilled](https://www.goodreads.com/book/show/41758433-agile-technical-practices-distilled)
 
 ## Usage
 
